@@ -1,1 +1,2 @@
-echo 'WELCOME TO DEVOPS CLASS' 
+echo 'my code updated' 
+echo 'my code' 
