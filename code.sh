@@ -1,0 +1,1 @@
+echo 'WELCOME TO DEVOPS CLASS' 
